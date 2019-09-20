@@ -61,14 +61,14 @@ logo ="""
 \033[1;96m█████████
 \033[1;96m█▄█████▄█      
 \033[1;96m█ ▼▼▼▼▼  _-_-- ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
-\033[1;96m█.    _-_-- -_ --  ӉԱทҬЄГՏ ԌᗋᗰiทԌ04
+\033[1;96m█.    _-_-- -_ --  RabellGenji
 \033[1;96m█ ▲▲▲▲▲   -_ -«============✧==========»
 \033[1;96m█████████   SUBSCRIBE NOW TO MY CHANNELL ...!!
-\033[1;96m ██ ██       VIP-V3 by Hunters Gaming04                    
+\033[1;96m ██ ██       VIP-V3 by RabellGenji                   
 \033[1;93m╔═══════════════════════════════════════════╗
-\033[1;93m║\033[1;96m¤ \033[1;93mAuthor  \033[1;93m: \033[1;93mMr_Hunters  \033[1;93m                   ║
-\033[1;93m║\033[1;96m¤ \033[1;93mWa  \033[1;93m    : \033[1;93m\033[4m083847277532\033[0m \033[1;93m                  ║
-\033[1;93m║\033[1;96m¤ \033[1;93mEmail  \033[1;93m : \033[1;93m\033[4mgelasajur1204@gmail.com\033[0m \033[1;93m       ║
+\033[1;93m║\033[1;96m¤ \033[1;93mAuthor  \033[1;93m: \033[1;93mRabellGenji  \033[1;93m                   ║
+\033[1;93m║\033[1;96m¤ \033[1;93mWa  \033[1;93m    : \033[1;93m\033[4m081296484189\033[0m \033[1;93m                  ║
+\033[1;93m║\033[1;96m¤ \033[1;93mEmail  \033[1;93m : \033[1;93m\033[4mgekaseptiawa482@gmail.com\033[0m \033[1;93m       ║
 \033[1;93m╚═══════════════════════════════════════════╝
 """
 
@@ -101,8 +101,8 @@ komengrup = []
 listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
-name = 'Mr'
-paws = 'HG04'
+name = 'Rabell'
+paws = 'Genji'
 
 def an():
     os.system('reset')
@@ -113,14 +113,14 @@ def an():
         os.system('reset')
         print logo
         time.sleep(1)
-        print 'Silahkankan Subscribe ke channell Hunters Gaming04 !!'
+        print 'selamat mencoba !!'
         time.sleep(3)
-        print 'Semoga yang subscribe rejekinya banyak Amin...!!'
+        print 'dan ikutin intruksi....!!!'
         time.sleep(3)
-        print 'Biasanya yg gak subscribe tidak bisa login'
+        print 'jangan sampai salah , kalau salah bisa gk login'
         time.sleep(3)
-        os.system('xdg-open https://www.youtube.com/channel/UCz5Z718-ZRUy9aBzCAHqrug ')
-        print 'User = Mr  dan   Pasw = HG04 '
+        os.system('xdg-open https://www.facebook.com/RabellGenji ')
+        print 'User = Rabell  dan   Pasw = Genji '
         time.sleep(5)
         print 'Masukan User dan Pass nya ?'
         uname = raw_input('\n\x1b[32;1m[\x1b[33;1m#\x1b[32;1m]\x1b[37;1m Username : ')
